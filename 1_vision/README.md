@@ -21,5 +21,7 @@ This tutorial is designed to provide a hands-on understanding of how to train po
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eemlcommunity/PracticalSessions2025/blob/main/1_vision/vision_tutorial.ipynb)
 
+Tutorial with solutions: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eemlcommunity/PracticalSessions2025/blob/main/1_vision/vision_tutorial_solutions.ipynb)
 
 ---
