@@ -1,4 +1,4 @@
-# [[EEML2024](https://www.eeml.eu)] Tutorial 2: Mechanistic Interpretability
+# [[EEML2025](https://www.eeml.eu)] Tutorial 2: Mechanistic Interpretability
 
 **Authors:** Arthur Conmy and Federico Barbero
 
