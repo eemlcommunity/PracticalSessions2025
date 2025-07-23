@@ -1,4 +1,4 @@
-# [[EEML2024](https://www.eeml.eu)] Tutorial 1: Training Vision Transformer (ViT) encoders from scratch
+# [[EEML2025](https://www.eeml.eu)] Tutorial 1: Training Vision Transformer (ViT) encoders from scratch
 
 **Authors:** Liliane Momeni and Nikhil Parthasarathy
 
