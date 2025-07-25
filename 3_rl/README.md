@@ -21,4 +21,8 @@ Reinforcement Learning (RL) is about learning to make good decisions through tri
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eemlcommunity/PracticalSessions2025/blob/main/3_rl/reinforcement_learning_tutorial.ipynb)
 
+Tutorial with solutions: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eemlcommunity/PracticalSessions2025/blob/main/3_rl/reinforcement_learning_tutorial_solutions.ipynb)
+
+
 ---
